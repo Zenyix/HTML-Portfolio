@@ -1,2 +1,2 @@
 # HTML-Portfolio
-Portfolio made with html
+Portfolio/Resume made with html
